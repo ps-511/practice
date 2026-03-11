@@ -95,3 +95,22 @@ git commit -m "Resolved merge conflict"
 
 # push final merge
 git push origin main
+
+
+
+>>>>>>>third program 
+
+public class pgm { // pgm should match the filename in github
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+
+java --version
+javac pgm.java
+java pgm
+
+
+H/2 * * * * //Poll SCM
